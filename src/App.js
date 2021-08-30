@@ -12,7 +12,7 @@
       
    <div className="app">
       <div className="mainHeading">
-        <h1> <span>S</span> ToDo</h1>
+        <h1> <span>S</span> ToDos</h1>
       </div>
       
       <div className="subHeading">
