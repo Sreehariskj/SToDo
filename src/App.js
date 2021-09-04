@@ -53,6 +53,8 @@
             value={obj.status} type="checkbox" name="" id="" />
            <label>{obj.text}</label>
           </div>
+          <div className="center">
+          </div>
           <div className="right">
             <i onClick={() => {
             if (window.confirm("Are you sure you want to remove this ?")) {
@@ -107,7 +109,7 @@
           </table>
           </div>
           </div>
-
+          <div className="removed">
           <div className="shadow-1-strong accordion mb-1" id="accordionExample">
             <div className="accordion-item">
               <h2 className="accordion-header" id="headingOne">
@@ -158,6 +160,7 @@
                 </div>
               </div>
             </div>
+          </div>
           </div>
         
          
