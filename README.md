@@ -4,7 +4,7 @@ S ToDo app link : https://Sreehariskj.github.io/SToDo
   * Resposive
   * Simple
 ### Functions :
-  * Covered full CRUD operation
+  * Covered full CRUD operations
 
 
 # Getting Started with Create React App
